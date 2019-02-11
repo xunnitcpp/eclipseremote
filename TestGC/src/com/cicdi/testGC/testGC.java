@@ -1,5 +1,5 @@
 package com.cicdi.testGC;
-///////////////////////11111111111111
+////////bbbb
 import java.lang.management.GarbageCollectorMXBean;
 import java.lang.management.ManagementFactory;
 import java.util.List;
